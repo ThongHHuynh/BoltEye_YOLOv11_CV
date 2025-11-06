@@ -2,3 +2,7 @@
 venv/
 *.pt
 runs/
+datasets/*.zip
+*.pt
+runs/
+venv/
